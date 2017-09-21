@@ -1,6 +1,6 @@
 ## Civil Design 'thinking' Engineer
 
-You can use the [editor on GitHub](https://github.com/KhanyaBouma/khanyabouma.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I view a civil engineer as a civil servant and believe somewhere along the way civil engineers stopped designing for people and started designing for clients.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
