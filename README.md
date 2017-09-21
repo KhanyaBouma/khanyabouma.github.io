@@ -2,7 +2,7 @@
 
 I view a civil engineer as a civil servant and believe somewhere along the way civil engineers stopped designing for people and started designing for clients.
 
-![HydropowerSketch](https://docs.google.com/drawings/d/18AuDEtsVULzYdWZQv5JCgs4yDldULPLYPcRd7vpQ3XA/edit)
+![HydropowerSketch](HydroPower.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
