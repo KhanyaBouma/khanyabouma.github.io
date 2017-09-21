@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Civil Design 'thinking' Engineer
 
 You can use the [editor on GitHub](https://github.com/KhanyaBouma/khanyabouma.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
