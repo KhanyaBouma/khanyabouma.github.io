@@ -4,7 +4,7 @@ I view a civil engineer as a civil servant and believe somewhere along the way c
 
 ![HydropowerSketch](HydroPower.png)
 <div>
-<iframe src="https://drive.google.com/open?id=0B5odbOSnP4slZEpCY3dqM0d6TWc" width="320" height="200"></iframe>
+<iframe src="https://drive.google.com/file/d/0B5odbOSnP4slZEpCY3dqM0d6TWc/preview" width="640" height="480"></iframe>
 </div>
 
 ```html                                                                                                   
