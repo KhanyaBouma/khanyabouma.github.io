@@ -4,8 +4,10 @@ I view a civil engineer as a civil servant and believe somewhere along the way c
 
 ![HydropowerSketch](HydroPower.png)
 
-<video src="Ntaruka Video03.mp4" poster="Ntaruka Poster Image.png" width="320" height="200" controls preload></video>
-<video src="DesignSprint1.mp4" width="320" height="200" controls preload></video>
+<video src="https://drive.google.com/open?id=0B5odbOSnP4slZEpCY3dqM0d6TWc" poster="Ntaruka Poster Image.png" width="320" height="200" controls preload></video>
+<video src="https://drive.google.com/open?id=0B5odbOSnP4slZEpCY3dqM0d6TWc" width="320" height="200" controls preload></video>
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
