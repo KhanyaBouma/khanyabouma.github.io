@@ -2,6 +2,8 @@
 
 I view a civil engineer as a civil servant and believe somewhere along the way civil engineers stopped designing for people and started designing for clients.
 
+I go crazy for the yoga.
+
 ![HydropowerSketch](HydroPower.png)
 
 <video src="Ntaruka Video03.mp4" poster="poster.jpg" width="320" height="200" controls preload></video>
