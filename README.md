@@ -2,7 +2,7 @@
 
 I view a civil engineer as a civil servant and believe somewhere along the way civil engineers stopped designing for people and started designing for clients.
 
-[embed]Khanya Bouma Cover letter.pdf[/embed]
+[Khanya Bouma Cover Letter]({{ site.url }}/Khanya Bouma Cover letter.pdf)
 
 ![Glacier background](Glacier background.JPG)
 
