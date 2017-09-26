@@ -2,6 +2,15 @@
 
 I view a civil engineer as a civil servant and believe somewhere along the way civil engineers stopped designing for people and started designing for clients.
 
+# Slide 
+background-image: url(Mom's Birthday Card.png)
+# Slide with background image
+
+
+
+---
+# Slide
+
 ![HydropowerSketch](HydroPower.png)
 <div>
 <iframe src="https://drive.google.com/file/d/0B5odbOSnP4slZEpCY3dqM0d6TWc/preview" width="640" height="480"></iframe>
