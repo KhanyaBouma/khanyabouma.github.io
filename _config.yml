@@ -3,7 +3,11 @@ theme: jekyll-theme-minimal
 title: Welcome to my page!
 description: An engineer with a purpose
 
-avatar: https://github.com/KhanyaBouma/khanyabouma.github.io/blob/master/Edited%20Khanya%20Bouma.png
+ plugins:
+ - jekyll-avatar: https://github.com/KhanyaBouma/khanyabouma.github.io/blob/master/Edited%20Khanya%20Bouma.png
+ - jemoji
+ 
+gem install jekyll-gist jekyll-coffeescript jekyll-assets another-jekyll-plugin
 
 dribbble:
   email: khanya.bouma@gmail.com
