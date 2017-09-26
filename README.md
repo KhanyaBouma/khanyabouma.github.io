@@ -2,7 +2,7 @@
 
 I view a civil engineer as a civil servant and believe somewhere along the way civil engineers stopped designing for people and started designing for clients.
 
-![Glacier background](Glacier background.jpg)
+![Glacier background](Glacier%20background.jpg)
 
 ![HydropowerSketch](HydroPower.png)
 
