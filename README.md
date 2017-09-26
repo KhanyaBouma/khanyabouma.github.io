@@ -3,7 +3,7 @@
 I view a civil engineer as a civil servant and believe somewhere along the way civil engineers stopped designing for people and started designing for clients.
 
 # Slide 
-![background-image]("Mom's Birthday Card.png")
+![background-image](Mom's Birthday Card.png)
 # Slide with background image
 body {
     background-image: src("Mom's Birthday Card.png");
