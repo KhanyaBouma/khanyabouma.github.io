@@ -5,9 +5,6 @@ description: An engineer with a purpose
 
  plugins:
  - jekyll-avatar: https://github.com/KhanyaBouma/khanyabouma.github.io/blob/master/Edited%20Khanya%20Bouma.png
- - jemoji
- 
-gem install jekyll-gist jekyll-coffeescript jekyll-assets another-jekyll-plugin
 
 dribbble:
   email: khanya.bouma@gmail.com
