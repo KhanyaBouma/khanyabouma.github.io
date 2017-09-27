@@ -1,14 +1,14 @@
-### Civil 'Design thinking' Engineer
+5### Civil 'Design thinking' Engineer
 
 "I view a civil engineer as a civil servant -- one with the capacity to drive major positive change in communities through infrastructure, innovation and technical expertise.
 _The people-centric nature of Civil Engineering, has lead me to Design practices. This has been a recent focus in my career, which I would like to develop further going forward._"
 
 [comment]: <> ([![Letter icon](Letter.jpg)]({{ site.url }}/Khanya Bouma Cover letter.pdf))
 
-<a href="{{ site.url }}/Khanya Bouma CV.pdf"> <img src="CV.png" alt="CV" style="width:75px;height:75px;" hspace="60"></a>
-<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:75x;height:75px;" hspace="60"></a> 
-<a href="{{ site.url }}/Khanya Bouma General Reference.pdf"> <img src="References.jpg" alt="References" style="width:75px;height:75px;"  hspace="60"></a>
-<a href="{{ site.url }}/Khanya Bouma Project Experience.pdf"> <img src="Experience.png" alt="Experience" style="width:75px;height:75px;"  hspace="60"></a>
+<a href="{{ site.url }}/Khanya Bouma CV.pdf"> <img src="CV.png" alt="CV" style="width:75px;height:75px;" hspace="50"></a>
+<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:75x;height:75px;" hspace="50"></a> 
+<a href="{{ site.url }}/Khanya Bouma General Reference.pdf"> <img src="References.jpg" alt="References" style="width:75px;height:75px;"  hspace="50"></a>
+<a href="{{ site.url }}/Khanya Bouma Project Experience.pdf"> <img src="Experience.png" alt="Experience" style="width:75px;height:75px;"  hspace="50"></a>
 
 ![Glacier background](Glacier background.JPG)
 
