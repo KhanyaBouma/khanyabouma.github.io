@@ -3,7 +3,7 @@
 "I view a civil engineer as a civil servant -- one with the capacity to drive major positive change in communities through infrastructure, innovation and technical expertise.
 _The people-centric nature of Civil Engineering has lead me to Design practices recently in my career, which I would like to develop further._"
 
-![Profile](Edited Khanya Bouma.jpg)
+![Profile](Edited Khanya Bouma.png)
 
 <a href="{{ site.url }}/Khanya Bouma CV.pdf"> <img src="CV.png" alt="CV" style="width:50px;height:50px;" hspace="30"></a>
 <a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:50x;height:50px;" hspace="30"></a> 
