@@ -6,7 +6,7 @@ I view a civil engineer as a civil servant and believe somewhere along the way c
 
 [comment]: <> ([![Letter icon](Letter.jpg)]({{ site.url }}/Khanya Bouma Cover letter.pdf))
 
-<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:100px;height:75px;"> </a>
+<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:100px;height:75px;"> </a>,<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:100px;height:75px;"> </a>
 
 ![Glacier background](Glacier background.JPG)
 
