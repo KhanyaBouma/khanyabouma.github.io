@@ -5,9 +5,9 @@ _The people-centric nature of Civil Engineering, has lead me to Design practices
 
 [comment]: <> ([![Letter icon](Letter.jpg)]({{ site.url }}/Khanya Bouma Cover letter.pdf))
 
-<a href="{{ site.url }}/Khanya Bouma CV.pdf"> <img src="CV.png" alt="CV" style="width:60px;height:60px;" hspace="80></a>
-<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:60x;height:60px;" hspace="80"> 
-<a href="{{ site.url }}/Khanya Bouma General Reference.pdf"> <img src="References.jpg" alt="References" style="width:60px;height:60px;"  hspace="80"></a> 
+<a href="{{ site.url }}/Khanya Bouma CV.pdf"> <img src="CV.png" alt="CV" style="width:60px;height:60px;" hspace="80"></a>
+<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:60x;height:60px;" hspace="80"></a> 
+<a href="{{ site.url }}/Khanya Bouma General Reference.pdf"> <img src="References.jpg" alt="References" style="width:60px;height:60px;"  hspace="80"></a>
 <a href="{{ site.url }}/Khanya Bouma Project Experience.pdf"> <img src="Experience.png" alt="Experience" style="width:60px;height:60px;"  hspace="80"></a>
 
 ![Glacier background](Glacier background.JPG)
