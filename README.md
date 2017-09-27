@@ -12,7 +12,7 @@ _The people-centric nature of Civil Engineering has lead me to Design practices 
 
 ![Glacier background](Glacier background.JPG)
 
-### Water and renewable engeries are my passion.
+### Water and renewable engeries are my passion. <p align="center">
 
 ![HydropowerSketch](HydroPower.png)
 
@@ -27,8 +27,7 @@ Involved in numerous studies and most notably my work as Team Lead of a 2.4 MW h
 
 <video src="https://drive.google.com/open?id=0B5odbOSnP4slZEpCY3dqM0d6TWc" width="320" height="200" controls preload></video>
 ```
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[comment]: <> (Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -60,4 +59,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.)
