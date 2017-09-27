@@ -1,4 +1,4 @@
-5### Civil 'Design thinking' Engineer
+## Civil 'Design thinking' Engineer
 
 "I view a civil engineer as a civil servant -- one with the capacity to drive major positive change in communities through infrastructure, innovation and technical expertise.
 _The people-centric nature of Civil Engineering, has lead me to Design practices. This has been a recent focus in my career, which I would like to develop further going forward._"
