@@ -5,10 +5,10 @@ _The people-centric nature of Civil Engineering has lead me to Design practices 
 
 [comment]: <> ([![Letter icon](Letter.jpg)]({{ site.url }}/Khanya Bouma Cover letter.pdf))
 
-<a href="{{ site.url }}/Khanya Bouma CV.pdf"> <img src="CV.png" alt="CV" style="width:50px;height:50px;" hspace="40"></a>
-<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:50x;height:50px;" hspace="40"></a> 
-<a href="{{ site.url }}/Khanya Bouma General Reference.pdf"> <img src="References.jpg" alt="References" style="width:50px;height:40px;"  hspace="50"></a>
-<a href="{{ site.url }}/Khanya Bouma Project Experience.pdf"> <img src="Experience.png" alt="Experience" style="width:50px;height:40px;"  hspace="50"></a>
+<a href="{{ site.url }}/Khanya Bouma CV.pdf"> <img src="CV.png" alt="CV" style="width:50px;height:50px;" hspace="25"></a>
+<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:50x;height:50px;" hspace="25"></a> 
+<a href="{{ site.url }}/Khanya Bouma General Reference.pdf"> <img src="References.jpg" alt="References" style="width:50px;height:50px;"  hspace="25"></a>
+<a href="{{ site.url }}/Khanya Bouma Project Experience.pdf"> <img src="Experience.png" alt="Experience" style="width:50px;height:50px;"  hspace="25"></a>
 
 ![Glacier background](Glacier background.JPG)
 
