@@ -1,6 +1,6 @@
 title: Welcome to my page!
 description: A civil engineer with purpose
-avatar: "https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png"
+avatar: ({{ site.url }}/Edited Khanya Bouma.png)
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
