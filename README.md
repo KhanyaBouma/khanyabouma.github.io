@@ -2,12 +2,10 @@
 
 I view a civil engineer as a civil servant and believe somewhere along the way civil engineers stopped designing for people and started designing for clients.
 
-[Khanya Bouma Cover Letter]({{ site.url }}/Khanya Bouma Cover letter.pdf)
-
 [comment]: <> ([![Letter icon](Letter.jpg)]({{ site.url }}/Khanya Bouma Cover letter.pdf))
 
-<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:100px;height:75px;"> </a>,<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:100px;height:75px;"> </a>
-
+<a href="{{ site.url }}/Khanya Bouma CV.pdf"> <img src="CV.png" alt="CV" style="width:100px;height:75px;"> </a> <a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:100px;height:75px;"> </a> <a href="{{ site.url }}/Khanya Bouma General Reference.pdf"> <img src="References.jpg" alt="References" style="width:100px;height:75px;"> </a> <a href="{{ site.url }}/Khanya Bouma Project Experience.pdf"> <img src="Experience.jpg" alt="Experiences" style="width:100px;height:75px;"> </a> 
+ 
 ![Glacier background](Glacier background.JPG)
 
 ![HydropowerSketch](HydroPower.png)
