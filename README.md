@@ -1,7 +1,7 @@
 ## Civil 'Design thinking' Engineer
 
 "I view a civil engineer as a civil servant -- one with the capacity to drive major positive change in communities through infrastructure, innovation and technical expertise.
-_The people-centric nature of Civil Engineering, has lead me to Design practices. This has been a recent focus in my career, which I would like to develop further going forward._"
+_The people-centric nature of Civil Engineering has lead me to Design practices recently in my career, which I would like to develop further._"
 
 [comment]: <> ([![Letter icon](Letter.jpg)]({{ site.url }}/Khanya Bouma Cover letter.pdf))
 
@@ -13,13 +13,12 @@ _The people-centric nature of Civil Engineering, has lead me to Design practices
 ![Glacier background](Glacier background.JPG)
 
 ## Water and renewable engeries are my passion.
+![HydropowerSketch](HydroPower.png)
 
 Involved in numerous studies and most notably my work as Team Lead of a 2.4 MW hydropower project in Rwanda.
 
-![HydropowerSketch](HydroPower.png)
-
 <div>
-<iframe src="https://drive.google.com/file/d/0B5odbOSnP4slMFlBT240MmxBbVU/preview?autoplay=1" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/open?id=0B5odbOSnP4slMFlBT240MmxBbVU/preview?autoplay=1" width="640" height="400"></iframe>
 </div>
 
 ```html                                                                                                   
