@@ -4,8 +4,8 @@ I view a civil engineer as a civil servant and believe somewhere along the way c
 
 [comment]: <> ([![Letter icon](Letter.jpg)]({{ site.url }}/Khanya Bouma Cover letter.pdf))
 
-<a href="{{ site.url }}/Khanya Bouma CV.pdf"> <img src="CV.png" alt="CV" style="width:50px;height:50px;" div style="width: 25%; text-align: center;"></a>
-<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:50x;height:50px;"> </a> <a href="{{ site.url }}/Khanya Bouma General Reference.pdf"> <img src="References.jpg" alt="References" style="width:50px;height:50px;"> </a> <a href="{{ site.url }}/Khanya Bouma Project Experience.pdf"> <img src="Experience.png" alt="Experience" style="width:50px;height:50px;"></a> 
+<a href="{{ site.url }}/Khanya Bouma CV.pdf"> <img src="CV.png" alt="CV" style="width:50px;height:50px;" hspace="20"></a>
+<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:50x;height:50px;" hspace="20"> </a> <a href="{{ site.url }}/Khanya Bouma General Reference.pdf"> <img src="References.jpg" alt="References" style="width:50px;height:50px;"> </a> <a href="{{ site.url }}/Khanya Bouma Project Experience.pdf"> <img src="Experience.png" alt="Experience" style="width:50px;height:50px;"></a> 
 
 <div>
 <div style="width: 25%; text-align: center;"><img src="CV.png"></div> <div style="width: 25%; text-align: center;"g"></div> <div style="width: 25%; text-align: center;"><img src="Letter.jpg"></div> <div style="width: 25%; text-align: center;"><img src="References.jpg"></div> <div style="width: 25%; text-align: center;"><img src="Experience.png"></div>
