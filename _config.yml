@@ -3,9 +3,9 @@ theme: jekyll-theme-minimal
 title: Welcome to my page!
 description: An engineer with a purpose
 gem "github-pages"
-group: :jekyll_plugins
+group: jekyll_plugins
 jekyll-avatar: https://github.com/KhanyaBouma/khanyabouma.github.io/blob/master/Edited%20Khanya%20Bouma.png
 
-<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/khanya-bouma-6653158b" data-format="click" data-related="false"></script>
+<script: "//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type: "IN/MemberProfile" data-id="https://www.linkedin.com/in/khanya-bouma-6653158b" data-format="click" data-related="false"></script>
 ---
