@@ -5,10 +5,10 @@ _The people-centric nature of Civil Engineering, has lead me to Design practices
 
 [comment]: <> ([![Letter icon](Letter.jpg)]({{ site.url }}/Khanya Bouma Cover letter.pdf))
 
-<a href="{{ site.url }}/Khanya Bouma CV.pdf"> <img src="CV.png" alt="CV" style="width:50px;height:50px;" hspace="75"></a>
-<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:50x;height:50px;" hspace="75"></a> 
-<a href="{{ site.url }}/Khanya Bouma General Reference.pdf"> <img src="References.jpg" alt="References" style="width:50px;height:50px;"  hspace="75"></a>
-<a href="{{ site.url }}/Khanya Bouma Project Experience.pdf"> <img src="Experience.png" alt="Experience" style="width:50px;height:50px;"  hspace="75"></a>
+<a href="{{ site.url }}/Khanya Bouma CV.pdf"> <img src="CV.png" alt="CV" style="width:50px;height:50px;" hspace="50"></a>
+<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:50x;height:50px;" hspace="50"></a> 
+<a href="{{ site.url }}/Khanya Bouma General Reference.pdf"> <img src="References.jpg" alt="References" style="width:50px;height:50px;"  hspace="50"></a>
+<a href="{{ site.url }}/Khanya Bouma Project Experience.pdf"> <img src="Experience.png" alt="Experience" style="width:50px;height:50px;"  hspace="50"></a>
 
 ![Glacier background](Glacier background.JPG)
 
@@ -19,7 +19,7 @@ Involved in numerous studies and most notably my work as Team Lead of a 2.4 MW h
 ![HydropowerSketch](HydroPower.png)
 
 <div>
-<iframe src="https://drive.google.com/file/d/0B5odbOSnP4slMFlBT240MmxBbVU/view?usp=sharing" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/0B5odbOSnP4slMFlBT240MmxBbVU/preview?autoplay=1" width="640" height="480"></iframe>
 </div>
 
 ```html                                                                                                   
