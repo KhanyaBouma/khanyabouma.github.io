@@ -1,4 +1,4 @@
----
+
 title: Welcome to my page!
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
@@ -6,4 +6,3 @@ google_analytics:
 theme: jekyll-theme-minimal
 <script: "//platform.linkedin.com/in.js" type="text/javascript"></script>
 <script type: "IN/MemberProfile" data-id="https://www.linkedin.com/in/khanya-bouma-6653158b" data-format="click" data-related="false"></script>
----
