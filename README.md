@@ -12,14 +12,14 @@ _The people-centric nature of Civil Engineering has lead me to Design practices 
 
 ![Glacier background](Glacier background.JPG)
 
-# Water and renewable engeries are my passion.
+### Water and renewable engeries are my passion.
 
 ![HydropowerSketch](HydroPower.png)
 
 Involved in numerous studies and most notably my work as Team Lead of a 2.4 MW hydropower project in Rwanda.
 
 <div>
-<iframe src="https://drive.google.com/file/d/0B5odbOSnP4slMFlBT240MmxBbVU/view?usp=sharing" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/open?id=0B5odbOSnP4slMFlBT240MmxBbVU" width="640" height="480"></iframe>
 </div>
 
 ```html                                                                                                   
