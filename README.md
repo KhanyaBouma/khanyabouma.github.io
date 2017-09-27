@@ -4,11 +4,9 @@ I view a civil engineer as a civil servant and believe somewhere along the way c
 
 [Khanya Bouma Cover Letter]({{ site.url }}/Khanya Bouma Cover letter.pdf)
 
-[![Letter icon](Letter.jpg)]({{ site.url }}/Khanya Bouma Cover letter.pdf)
+[comment]: <> ([![Letter icon](Letter.jpg)]({{ site.url }}/Khanya Bouma Cover letter.pdf))
 
-<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:304px;height:228px;"> </a>
-
-<img src="Letter.jpg" alt="Letter" style="width:304px;height:228px;">
+<a href="{{ site.url }}/Khanya Bouma Cover letter.pdf"> <img src="Letter.jpg" alt="Letter" style="width:100px;height:75px;"> </a>
 
 ![Glacier background](Glacier background.JPG)
 
