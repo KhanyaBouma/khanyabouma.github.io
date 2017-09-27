@@ -1,8 +1,10 @@
-## Civil Design 'thinking' Engineer
+## Civil 'Design thinking' Engineer
 
 I view a civil engineer as a civil servant and believe somewhere along the way civil engineers stopped designing for people and started designing for clients.
 
 [Khanya Bouma Cover Letter]({{ site.url }}/Khanya Bouma Cover letter.pdf)
+
+[![Letter icon](Letter.jpg)]({{ site.url }}/Khanya Bouma Cover letter.pdf)
 
 ![Glacier background](Glacier background.JPG)
 
